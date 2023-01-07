@@ -1,3 +1,4 @@
+/* header part */
 .banner{
     height: 750px;;
     width:auto;
@@ -29,6 +30,7 @@ font-weight: 800;
 color: white;
 
 }
+/* main part */
 .main-tittle1{
 color:black;
 font-size: 40px;
@@ -56,6 +58,7 @@ background-color:white;
 border-color: white;
 border-radius: 5px;
 }
+/* Section part */
 .section1{
     justify-content: space-between;
 }
@@ -73,6 +76,7 @@ border-radius: 5px;
     display: flex;
     padding:0;
 }
+/* fieldset part  */
 .fieldset{
 
     height: 300px;
@@ -113,6 +117,7 @@ border-radius: 5px;
     
 
      }
+     /*  Footer part*/
      .footer{
         background-color: black;
       height: 350px;
@@ -134,7 +139,7 @@ border-radius: 5px;
      #fname{
         height: 40px;
         width: 170px;
-        background-color:white;
+        background-color:rgb(20, 2, 2);
         border-radius: 5px;
      }
      .footer-h3{
@@ -151,7 +156,7 @@ border-radius: 5px;
 
      }
      ::placeholder { 
-        color: white;
+        color: rgb(243, 238, 238);
         opacity: 1;
      }
      
